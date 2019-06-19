@@ -16,5 +16,4 @@
 [MSUnit DDT](https://github.com/KaBaN4iK357/epam_04_BasicCoding/blob/382f41b6e625070c0a272c28f6509eaf78a867c1/Izh_04_Basic_Coding/Izh04BasicCodingTests.cs#L175)
 [Данные для DDT](https://github.com/KaBaN4iK357/epam_04_BasicCoding/blob/master/Izh_04_Basic_Coding/data.csv)
 - Creating types <br/>
-- Creating types <br/>
 - Methods in details <br/>
